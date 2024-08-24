@@ -1,4 +1,4 @@
-<h2 align="left">👋Olá, eu me chamo Diêgo</h2>
+<h1 align="left">👋Olá, eu me chamo Diêgo</h1>
 
 🖥️ Ciência da computação UFAL 4/8
 
