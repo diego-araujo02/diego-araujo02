@@ -1,6 +1,7 @@
 <h1 align="left">👋Olá, eu me chamo Diêgo</h1>
 
-🖥️ Ciência da computação UFAL 4/8
+<p>🖥️ Ciência da computação UFAL 4/8</p>
+<p>🌱 Atualmente aprendendo Java e Web</p>
 
   <br>
 
@@ -10,7 +11,7 @@
 </div>
 
 
-<h2 align="left">Atualmente aprendendo:</h2>
+<h2 align="left">Minhas tecnologias:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -26,15 +27,10 @@
 
 <h2 align="left">Contate-me em:</h2>
 
-
-<div align="left">
-  <a href="dac@ic.ufal.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/di%C3%AAgo-de-araujo-7696b5276/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div> 
+  <a href = "mailto:dac@ic.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/di%C3%AAgo-de-araujo-7696b5276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
-
 
 
