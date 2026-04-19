@@ -1,6 +1,6 @@
 <h1 align="left">Olá, eu me chamo Diêgo</h1>
 
-<p>🖥️ Ciência da computação UFAL 5/8</p>
+<p>🖥️ Ciência da computação UFAL 7/8</p>
 
   <br>
 
